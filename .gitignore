@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+*.o
+*.out
+*.exe
+npshell
+np_simple
+np_single_proc
+np_multi_proc
+http_server
+console.cgi
+socks_server
+pj4.cgi
+cgi_server.exe
